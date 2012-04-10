@@ -56,26 +56,23 @@
 	</p>
 
 	<h2>Udvalgte referencer</h2>
+	<p>
+		Pt. arbejder jeg på en freelance-opgave og har selv et personligt projekt i planlægningsfasen.
+	</p>
 	<ul>
+		<li>
+			<p>
+				<strong>2012: Aktiespillet "2" - under udvikling</strong><br/>
+				Efterfølgeren til det nuværende aktiespil.<br/>
+				Denne version bygger på <a href="http://laravel.com">Laravel</a> og har en masse nye features.<br/>
+				<i>- Se "smugkig"-video <a href="http://www.youtube.com/watch?v=PnnSqQPDbTU">her</a>.</i>
+			</p>
+		</li>
 		<li>
 			<p>
 				<strong>2009: Aktiespillet - <a href="http://aktiespillet.com/">vis side</a></strong><br/>
 				Aktiespil med 10.000+ registrede brugere.<br/>
 				Udviklet på egen hånd i 2008/09.<br/>
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>2012: Aktiespillet "2" - under udvikling</strong><br/>
-				Efterfølgeren til det nuværende aktiespil.<br/>
-				Denne version bygger på <a href="http://laravel.com">Laravel</a> og har en masse nye features.
-			</p>
-		</li>
-		<li>
-			<p>
-				<strong>2012: Drupal-installation-administrations-backend - under udvikling</strong><br/>
-				Freelance opgave for <a href="http://pixelmade.dk">Pixelmade</a> i 2012.<br/>
-				Systemet bruges til at oprette Drupal installationer under subdomæner.
 			</p>
 		</li>
 	</ul>
@@ -84,12 +81,13 @@
 
 	<img src="img/hhx.jpg" alt="HHX" class="photo">
 
+	<p>
+		Til august/september starter jeg på IT-studiet på Aarhus Universitet.
+	</p>
+
 	<ul>
 		<li>2007 - 2010: Økonomi A + IT A, HHX, Svendborg Erhvervsskole</li>
 	</ul>
-	<p>
-		Til august/september starter jeg på IT-studiet på Aarhus Universitet
-	</p>
 
 	<h2>Job &amp; erfaring</h2>
 	<ul>
@@ -185,8 +183,8 @@
 		</li>
 		<li>
 			<p>
-				<strong>August 2011: Side, Tyrkiet</strong><br/>
-				En uges solrig rejse til byen Side - skyfri himmel og 38+
+				<strong>Juli 2011: Filippinerne</strong><br/>
+				4 ugers blandet familieferie og familiebesøg
 			</p>
 		</li>
 	</ul>
@@ -196,22 +194,11 @@
 	<ul>
 		<li>
 			<p>
-				<strong>Juli 2011: Filippinerne</strong><br/>
-				4 ugers blandet familieferie og familiebesøg
-			</p>
-		</li>
-		<li>
-			<p>
 				<strong>November 2010: Wigan og Manchester, England</strong><br/>
 				4 dages personale ekskursion med Svendborg Ungdomsskole.<br/>
 				Besøg hos engelske skoler i forbindelse med internationalisering m.m.
 			</p>
 		</li>
-	</ul>
-
-	<img src="img/faldskaerm.jpg" alt="" class="photo">
-
-	<ul>
 		<li>
 			<p>
 				<strong>September/oktober 2010: Faldskærmsudspring</strong><br/>
@@ -220,7 +207,7 @@
 		</li>
 	</ul>
 
-	<img src="img/interrail.jpg" alt="" class="photo">
+	<img src="img/faldskaerm.jpg" alt="" class="photo">
 
 	<ul>
 		<li>
@@ -232,6 +219,8 @@
 			</p>
 		</li>
 	</ul>
+
+	<img src="img/interrail.jpg" alt="" class="photo">
 
 	<h2>
 		Kontakt &amp; sociale links
@@ -258,15 +247,15 @@
 </div>
 
 <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-7802599-4']);
-	_gaq.push(['_trackPageview']);
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-7802599-4']);
+		_gaq.push(['_trackPageview']);
 
-	(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
 </script>
 
 </body>
