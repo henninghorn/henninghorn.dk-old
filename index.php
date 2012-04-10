@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Henning Horn, innovativ webudvikler med passion for ui- og ux-design, med kompetencer inden for PHP5, HTML5, CSS3, jQUery." /> 
+	<meta name="description" content="Henning Horn, innovativ webudvikler med passion for ui- og ux-design, med kompetencer inden for PHP5, HTML5, CSS3, jQuery og Linux" /> 
 	<meta name="keywords" content="Henning Horn freelance photography webdevelopment webdesign henninghorn hhdk danish denmark webudvikling webudvikler hjemmeside hjemmesider udvikling php linux ajax web web2.0 aktiespillet09 aktiespil aktiespillet aktiespillet.com" />
 	<title>Henning Horn</title>
 	<link rel="stylesheet" href="inc/stylesheet.css">
