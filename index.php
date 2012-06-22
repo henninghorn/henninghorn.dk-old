@@ -22,7 +22,7 @@
 <body onload="rM()">
 
 <div id="sidebar">
-	<img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-snc4/572453_652388354_758654117_n.jpg" alt="Henning Horn">
+	<img src="img/henninghorn.jpg" alt="Henning Horn">
 </div>
 
 <div id="page">
