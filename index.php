@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="description" content="Henning Horn, innovativ webudvikler med passion for ui- og ux-design, med kompetencer inden for PHP5, HTML5, CSS3, jQuery og Linux" /> 
 	<meta name="keywords" content="Henning Horn freelance photography webdevelopment webdesign henninghorn hhdk danish denmark webudvikling webudvikler hjemmeside hjemmesider udvikling php linux ajax web web2.0 aktiespillet09 aktiespil aktiespillet aktiespillet.com" />
-	<title>Henning Horn</title>
+	<title>Henning Horn, freelance webudvikler med speciale i PHP, HTML5, CSS3, ui- og ux-design</title>
 	<link rel="stylesheet" href="inc/stylesheet.css">
 	<script type="text/javascript">
 		// rM = revealMail
@@ -34,11 +34,12 @@
 	<h2>Kompetencer</h2>
 	<ul>
 		<li>PHP, jQuery, HTML5 + CSS3</li>
-		<li>Linux (Debian-baseret), LAMP opsætning m.m.</li>
+		<li>UI- &amp; UX-design</li>
+		<li>Linux, LAMP opsætning m.m.</li>
 		<li>Git versionsstyring</li>
 	</ul>
 	<p>
-		Jeg er dybt engageret i at lære om nye teknologier o.lign.<br/>
+		Jeg er dybt engageret i at lære om nye teknologier samt optimering<br/>
 		<strong>Fokus pt</strong>: VPS-optimering og real-time web-applikationer.
 	</p>
 	<p>
@@ -48,21 +49,21 @@
 	<p>
 		Mit foretrukne PHP-framework er <a href="http://laravel.com/">Laravel</a>. 
 		Det er et utroligt veldokumenteret og overskueligt framework, med et fantastisk community, 
-		som jeg bestemt vil anbefale.
+		som jeg til hver en tid vil anbefale.
 	</p>
 
 	<p>
-		Udover programmering interesserer jeg mig også for fotografering og billedredigering.
+		Udover programmering interesserer jeg mig også for <a href="http://flickr.com/henninghorn" target="_blank">fotografering og billedredigering</a>.
 	</p>
 
 	<h2>Udvalgte referencer</h2>
 	<p>
-		Pt. arbejder jeg på en freelance-opgave og har selv et personligt projekt i planlægningsfasen.
+		Pt. arbejder jeg freelance og arbejder sideløbende med et par startup projekter
 	</p>
 	<ul>
 		<li>
 			<p>
-				<strong>2012: Aktiespillet "2" - under udvikling</strong><br/>
+				<strong>2012: Aktiespillet "2" - Pt. på standby</strong><br/>
 				Efterfølgeren til det nuværende aktiespil.<br/>
 				Denne version bygger på <a href="http://laravel.com">Laravel</a> og har en masse nye features.<br/>
 				<i>- Se "smugkig"-video <a href="http://www.youtube.com/watch?v=PnnSqQPDbTU">her</a>.</i>
@@ -81,10 +82,6 @@
 
 	<img src="img/hhx.jpg" alt="HHX" class="photo">
 
-	<p>
-		Til august/september starter jeg på IT-studiet på Aarhus Universitet.
-	</p>
-
 	<ul>
 		<li>2007 - 2010: Økonomi A + IT A, HHX, Svendborg Erhvervsskole</li>
 	</ul>
@@ -95,7 +92,7 @@
 			<p>
 				<strong>I dag: Freelance</strong><br/>
 				Jeg driver egen virksomhed hvor jeg laver udviklingsopgaver på freelance-basis. 
-				Derudover udforsker jeg også branchen i min fritid.
+				Sideløbende arbejder jeg på et par personlige startup-projekter.
 			</p>
 		</li>
 		<li>
