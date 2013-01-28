@@ -39,10 +39,6 @@
 		<li>Git versionsstyring</li>
 	</ul>
 	<p>
-		Jeg er dybt engageret i at lære om nye teknologier samt optimering<br/>
-		<strong>Fokus pt</strong>: VPS-optimering og real-time web-applikationer.
-	</p>
-	<p>
 		Jeg udvikler i <a href="http://www.sublimetext.com/2">Sublime Text 2</a>. Bruger <a href="http://git-scm.com/">Git</a> til versionsstyring.<br/>
 		Alt mit arbejde finder sted i <a href="http://www.apple.com/dk/macosx/">OS X</a> på min <a href="http://www.apple.com/dk/macbookpro/">Macbook Pro</a>.<br/>
 	</p>
