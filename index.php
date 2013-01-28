@@ -28,7 +28,7 @@
 <div id="page">
 	<h1>Henning Horn</h1>
 	<p id="intro">
-		Innovativ webudvikler med passion for ui- &amp; ux-design
+		Passioneret web-entreprenør og fotograf
 	</p>
 
 	<h2>Kompetencer</h2>
